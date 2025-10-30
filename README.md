@@ -11,8 +11,8 @@ Program sederhana berbasis terminal untuk melakukan operasi matematika dasar men
 go run main.go
 
 # Contoh Hasil Program
-=== Go Calculator ==
-Masukkan angka pertama: 8
-Masukkan operator (+, -, *, /): /
-Masukkan angka kedua: 2
+=== Go Calculator == <br>
+Masukkan angka pertama: 8 <br>
+Masukkan operator (+, -, *, /): / <br>
+Masukkan angka kedua: 2 <br>
 Hasil: 8 / 2 = 4
